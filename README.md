@@ -3,8 +3,8 @@
 
 ---
 #### PTIT REPO
-<a href="https://github.com/houtadono/java_oop_code-ptit" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=java_oop_code-ptit" />
+<a href="https://github.com/houtadono/Object-Oriented-Programming" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=Object-Oriented-Programming" />
 </a>
 &nbsp;
 <a href="https://github.com/houtadono/Data-Structures-And-Algorithms-CPP">
