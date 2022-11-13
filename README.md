@@ -1,10 +1,8 @@
-[![H's GitHub stars](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&include_all_commits=true&custom_title=Houta)](https://github.com/houtadono) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db)
+[![H's GitHub stars](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&include_all_commits=true&custom_title=Houta)](https://github.com/houtadono) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db" />
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db) -->
 
 ---
-
 #### PTIT REPO
-
 <a href="https://github.com/houtadono/java_oop_code-ptit" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=java_oop_code-ptit" />
 </a>
@@ -19,11 +17,10 @@
 </a>
 
 ---
-
-<h5 >Connect with me:</h5>
 <p align="left">
-<a href="https://fb.com/houtazzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="houtazzz" height="40" width="30" /></a>
+<a/>Connect with me: </a>
+<a href="https://fb.com/houtazzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="houtazzz" height="40" width="30" /> houtazzz</a>
   &nbsp;
-<a href="https://instagram.com/nemo_k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemo_k2" height="40" width="30" /></a>
+<a href="https://instagram.com/nemo_k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemo_k2" height="40" width="30" /> nemo_k2</a>
 </p>
 
