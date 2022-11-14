@@ -1,5 +1,6 @@
-[![H's GitHub stars](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&include_all_commits=true&custom_title=Houta)](https://github.com/houtadono) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db" />
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db) -->
+[![H's GitHub stars-Dark](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&include_all_commits=true&custom_title=Houta#gh-dark-mode-only)](https://github.com/houtadono#gh-dark-mode-only) 
+[![H's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&include_all_commits=true&theme=default&custom_title=Houta#gh-light-mode-only)](https://github.com/houtadono#gh-light-mode-only)&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db" />
+
 
 ---
 #### PTIT REPO
