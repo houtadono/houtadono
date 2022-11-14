@@ -1,5 +1,5 @@
-[![H's GitHub stars-Dark](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&include_all_commits=true&custom_title=Houta#gh-dark-mode-only)](https://github.com/houtadono#gh-dark-mode-only) 
-[![H's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=26619c&theme=swift&text_color=5D6393&include_all_commits=true&custom_title=Houta#gh-light-mode-only)](https://github.com/houtadono#gh-light-mode-only)&nbsp;
+[![H's GitHub stars-Dark](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=87adff&theme=aura&text_color=7bb5db&count_private=true&custom_title=Houta#gh-dark-mode-only)](https://github.com/houtadono#gh-dark-mode-only) 
+[![H's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=houtadono&show_icons=true&border_color=26619c&theme=swift&text_color=5D6393&count_private=true&custom_title=Houta#gh-light-mode-only)](https://github.com/houtadono#gh-light-mode-only)&nbsp;
 [![Top-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=87adff&theme=aura&text_color=7bb5db#gh-dark-mode-only)](https://github.com/houtadono#gh-dark-mode-only)
 [![Top-Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=houtadono&border_color=26619c&theme=swift&text_color=5D6393#gh-light-mode-only)](https://github.com/houtadono#gh-light-mode-only)
 <!-- #gh-dark-mode-only  #gh-light-mode-only 7ea4ca-->
