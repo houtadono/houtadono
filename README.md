@@ -6,7 +6,7 @@
 ---
 #### PTIT REPO
 <a href="https://github.com/houtadono/Object-Oriented-Programming-Java#gh-dark-mode-only" href="https://github.com/houtadono/Object-Oriented-Programming-Java#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=Object-Oriented-Programming-Java#gh-dark-mode-only" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=Object-Oriented-Programming-Java#gh-dark-mode-only#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=Object-Oriented-Programming-Java#gh-dark-mode-only" src="https://github-readme-stats.vercel.app/api/pin/?username=houtadono&theme=midnight-purple&border_color=87adff&repo=Object-Oriented-Programming-Java#gh-light-mode-only" />
 </a>
 &nbsp;
 <a href="https://github.com/houtadono/Data-Structures-And-Algorithms-CPP">
